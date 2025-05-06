@@ -53,6 +53,3 @@ def parse_int(string):
     total += current  # Добавляем оставшееся число
 
     return total
-
-
-print(parse_int("two hundred forty-six"))
